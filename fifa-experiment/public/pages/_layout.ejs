@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link type="text/css" rel="stylesheet" href="../style.css" media="screen"/>
+   <link rel="stylesheet" type="text/css"/>
+  <link rel="stylesheet" href="/assets/css/semantic.css">
+  <title> FIFA 17 </title>
+</head>
+<body>
+	<section class="ui stackable container">
+		<%- partial("../includes/_header.ejs") %>
+		<%- partial("../includes/_menu.ejs") %>
+		<section class="ui stackable grid segment">
+			<%- yield %>
+		</section>
+		<%- partial("../includes/_sponsors.ejs") %>
+		<%- partial("../includes/_footer.ejs") %>	
+	</section>
+
+</body>
+</html>
