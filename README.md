@@ -10,3 +10,6 @@ First year Web Development project. Static website recreation attempt of the EA 
 
 ## Articles Page Preview
 ![alt text](https://github.com/loti-ibrahimi/FIFA/blob/master/Articles.png) 
+
+## Insider Page Preview
+![alt text](https://github.com/loti-ibrahimi/FIFA/blob/master/Insider.png) 
